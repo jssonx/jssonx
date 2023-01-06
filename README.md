@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 ### self-learning courses & projects
+
+#### LTM 🎏
+- algorithms [labs](https://github.com/jssonx/leetcode_pg)
+
 #### Ongoing 🌱
 - compilers (cs143) [labs](https://github.com/jssonx/cs143-compilers)
 - mini c compiler [labs](https://github.com/jssonx/minic)
 - regex matcher [labs](https://github.com/jssonx/regex-matcher)
-- algorithms [labs](https://github.com/jssonx/leetcode_pg)
+
 - spring boot [labs](https://github.com/jssonx/spring_demo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssonx&layout=compact)](https://github.com/jssonx)
