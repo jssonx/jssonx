@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### self-learning courses & projects
+### Self-learning courses & projects
 
 #### LTM 🎏
 - algorithms [labs](https://github.com/jssonx/leetcode_pg)
