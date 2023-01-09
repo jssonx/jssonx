@@ -5,7 +5,8 @@
 ### Self-learning courses & projects
 
 #### LTM 🎏
-- algorithms [labs](https://github.com/jssonx/leetcode_pg)
+- algorithms [repo](https://github.com/jssonx/leetcode_pg)
+- quick reference [repo](https://github.com/jssonx/quick-reference)
 
 #### Ongoing 🌱
 - compilers (cs143) [labs](https://github.com/jssonx/cs143-compilers)
