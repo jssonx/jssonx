@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssonx&layout=compact)](https://github.com/jssonx)
 
-![](https://raw.githubusercontent.com/jssonx/jssonx/main/assets/github-contribution-grid-snake.svg)              
+![github contribution grid snake animation](https://raw.githubusercontent.com/jssonx/jssonx/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jssonx/jssonx/output/github-contribution-grid-snake.svg#gh-light-mode-only)        
 
 <!--
 **jssonx/jssonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
