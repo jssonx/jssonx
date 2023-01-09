@@ -13,6 +13,9 @@
 - spring boot [labs](https://github.com/jssonx/spring_demo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jssonx&layout=compact)](https://github.com/jssonx)
+
+![](https://raw.githubusercontent.com/jssonx/jssonx/main/assets/github-contribution-grid-snake.svg)              
+
 <!--
 **jssonx/jssonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
