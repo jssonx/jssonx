@@ -9,11 +9,11 @@
 - quick reference [repo](https://github.com/jssonx/quick-reference)
 
 #### Ongoing 🌱
+- eva: an interpreter [labs](https://github.com/jssonx/eva-an-interpreter)
 - compilers (cs143) [labs](https://github.com/jssonx/cs143-compilers)
 - mini c compiler [labs](https://github.com/jssonx/minic)
 - regex matcher [labs](https://github.com/jssonx/regex-matcher)
 
-- spring boot [labs](https://github.com/jssonx/spring_demo)
 
 <!--
 **jssonx/jssonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
