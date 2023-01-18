@@ -5,7 +5,7 @@
 - quick reference [repo](https://github.com/jssonx/quick-reference)
 
 #### Ongoing 🌱
-- eva: an interpreter [labs](https://github.com/jssonx/eva-an-interpreter)
+- eva-lang [labs](https://github.com/jssonx/eva-an-interpreter)
 - compilers (cs143) [labs](https://github.com/jssonx/cs143-compilers)
 - mini c compiler [labs](https://github.com/jssonx/minic)
 - regex matcher [labs](https://github.com/jssonx/regex-matcher)
