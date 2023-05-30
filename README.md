@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-### Done
+<!-- ### Done
 - eva-lang: a lightweight programming language [labs](https://github.com/jssonx/eva-lang)
 
 #### TODO
 - algorithms [repo](https://github.com/jssonx/leetcode_pg)
-- quick reference [repo](https://github.com/jssonx/quick-reference)
+- quick reference [repo](https://github.com/jssonx/quick-reference) -->
 
 <!-- #### Ongoing 🌱
 
